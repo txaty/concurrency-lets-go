@@ -4,7 +4,7 @@ An incomplete guide to concurrency and how to concurrency in the Go programming 
 
 ## Useful Links
 
-- [Concurrency vs Parallelism](https://freecontent.manning.com/concurrency-vs-parallelism/#:~:text=Concurrency is about multiple tasks,resources like multi-core processor)
+- [Concurrency vs Parallelism](https://freecontent.manning.com/concurrency-vs-parallelism)
 - [Parallel Computer Architecture and Programming, Fall 2018, CMU](https://www.cs.cmu.edu/afs/cs/academic/class/15418-f18/www/schedule.html)
 - [The Free Lunch is Over: A Fundamental Turn Toward Concurrency in Software](http://www.gotw.ca/publications/concurrency-ddj.htm)
 - [Moore's Law Wikipedia](https://en.wikipedia.org/wiki/Moore's_law)
